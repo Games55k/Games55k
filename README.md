@@ -5,6 +5,6 @@
 </table>
 
 - ACMer | Developer
-- 人工智能专业 | Major in Artificial-Intelligence
+- Major in Artificial-Intelligence
 
 > Your life's not simple, and you can't stop it from showing.
