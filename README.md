@@ -4,6 +4,8 @@
 <tr><td><img src="https://github-readme-stats.vercel.app/api?username=Games55k&show_icons=true&theme=radical" width="400"></td></tr>
 </table>
 
+> Thank you for watching.
+
 - ACMer | Developer
 - Major in Artificial-Intelligence
 
