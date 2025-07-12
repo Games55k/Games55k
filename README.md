@@ -11,8 +11,6 @@
 
 > Thanks for your watch.
 
-# Tech Stack
+# Tech Stack Studying
 
-## Studying
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![NodeJS](<img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" alt="Node.js" width="24" />) ![React](<img src="https://icon.icepanel.io/Technology/svg/React.svg" alt="React" width="24" />)
