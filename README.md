@@ -4,9 +4,9 @@
 <tr><td><img src="https://github-readme-stats.vercel.app/api?username=Games55k&show_icons=true&theme=radical" width="400"></td></tr>
 </table>
 
-> Thank you for watching.
+> Your life's not simple, and you can't stop it from showing.
 
 - ACMer | Developer
 - Major in Artificial-Intelligence
 
-> Your life's not simple, and you can't stop it from showing.
+> Thank you for watching.
