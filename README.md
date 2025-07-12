@@ -9,6 +9,8 @@
 - ACMer | Developer
 - Major in Artificial-Intelligence
 
+> Thanks for your watch.
+
 # Tech Stack
 
 ## Studying
