@@ -13,4 +13,11 @@
 
 # Tech Stack Studying
 
-![NodeJS](<img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" alt="Node.js" width="24" />) ![React](<img src="https://icon.icepanel.io/Technology/svg/React.svg" alt="React" width="24" />)
+<p align="center">
+  <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="24" />
+  <img src="https://icon.icepanel.io/Technology/svg/React.svg" width="24" />
+  <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" width="24" />
+  <img src="https://icon.icepanel.io/Technology/svg/Vue.js.svg" width="24" />
+  <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="24" />
+  <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" width="24" />
+</p>
