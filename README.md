@@ -1,5 +1,7 @@
 # **About Me**
 
+![wakatime](https://wakatime.com/badge/user/10987652-cb25-413a-85f0-2cb7753f5fd2.svg)
+
 <table align='right'>
 <tr><td><img src="https://github-readme-stats.vercel.app/api?username=Games55k&show_icons=true&theme=radical" width="400"></td></tr>
 </table>
@@ -22,3 +24,7 @@
   <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="36" />
   <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" width="36" />
 </p>
+
+# Github Stats
+
+![Sleepwf](https://raw.githubusercontent.com/Games55k/Games55k/main/assets/github-contribution-grid-snake.svg)
