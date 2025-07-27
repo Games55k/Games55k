@@ -1,6 +1,6 @@
 # **About Me**
 
-![wakatime](https://wakatime.com/badge/user/10987652-cb25-413a-85f0-2cb7753f5fd2.svg)
+[![wakatime](https://wakatime.com/badge/user/10987652-cb25-413a-85f0-2cb7753f5fd2.svg)](https://wakatime.com/badge/user/10987652-cb25-413a-85f0-2cb7753f5fd2.svg)
 
 <table align='right'>
 <tr><td><img src="https://github-readme-stats.vercel.app/api?username=Games55k&show_icons=true&theme=radical" width="400"></td></tr>
