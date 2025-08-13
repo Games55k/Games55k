@@ -8,8 +8,19 @@
 
 > Your life's not simple, and you can't stop it from showing.
 
-- ACMer | Developer
-- Major in Artificial-Intelligence
+<details>
+<summary>ACMer | Developer</summary>
+ 
+ + CCPC Regional Bronze Medal
+ + CCPC Invitational Silver Medal
+
+</details>
+
+<details>
+
+<summary> Major in Artificial-Intelligence </summary>
+
+</details>
 
 > Thanks for your watch.
 
