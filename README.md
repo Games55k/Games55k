@@ -9,7 +9,7 @@
 > Your life's not simple, and you can't stop it from showing.
 
 <details>
-<summary>ACMer | Developer</summary>
+<summary>ACMer | Developer | Open Source Enthusiast</summary>
  
  + CCPC Regional Bronze Medal
  + CCPC Invitational Silver Medal
