@@ -27,12 +27,10 @@
 # Tech Stack Studying
 
 <p align="center">
-  <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="36" />
+  <img src="https://icon.icepanel.io/Technology/svg/Go.svg" width="36" />
   <img src="https://icon.icepanel.io/Technology/svg/React.svg" width="36" />
   <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" width="36" />
   <img src="https://icon.icepanel.io/Technology/svg/Git.svg" width="36" />
-  <img src="https://icon.icepanel.io/Technology/svg/Vue.js.svg" width="36" />
-  <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="36" />
   <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="36" />
   <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" width="36" />
 </p>
