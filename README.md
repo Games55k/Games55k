@@ -13,6 +13,7 @@
  
  + CCPC Regional Bronze Medal
  + CCPC Invitational Silver Medal
+ + ICPC Invitational Bronze Medal
 
 </details>
 
