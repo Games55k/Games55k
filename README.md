@@ -1,10 +1,13 @@
 # **About Me**
 
 [![wakatime](https://wakatime.com/badge/user/10987652-cb25-413a-85f0-2cb7753f5fd2.svg)](https://wakatime.com/badge/user/10987652-cb25-413a-85f0-2cb7753f5fd2.svg)
+![views](https://komarev.com/ghpvc/?username=Games55k&color=orange)
 
 <table align='right'>
-<tr><td><img src="https://github-readme-stats.vercel.app/api?username=Games55k&show_icons=true&theme=radical" width="400"></td></tr>
+<tr><td><img src="https://stats.dogxi.me/api?username=Games55k&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&bg_color=00000000" width="400"></td></tr>
 </table>
+
+👋 Welcome to my [Blog](https://blog.sleepwf.dev)!
 
 > Your life's not simple, and you can't stop it from showing.
 
