@@ -7,7 +7,7 @@
 <tr><td><img src="https://stats.dogxi.me/api?username=Games55k&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&bg_color=00000000" width="400"></td></tr>
 </table>
 
-👋 Welcome to my [Blog](https://blog.sleepwf.dev)!
+👋 Welcome to my [Blog](https://blog.sleepwf.dev) !
 
 > Your life's not simple, and you can't stop it from showing.
 
