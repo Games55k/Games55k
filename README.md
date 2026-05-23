@@ -24,6 +24,8 @@
 
 <summary> Major in Artificial-Intelligence </summary>
 
++ Learning & building Agent
+
 </details>
 
 > Thanks for your watch.
