@@ -24,7 +24,7 @@
 
 <summary> Major in Artificial-Intelligence </summary>
 
-+ Learning & building Agent
+ + Learning & building Agent
 
 </details>
 
@@ -33,6 +33,7 @@
 # Tech Stack Studying
 
 <p align="center">
+  <img src="https://icon.icepanel.io/Technology/svg/Bun.svg" width="36" />
   <img src="https://icon.icepanel.io/Technology/svg/Go.svg" width="36" />
   <img src="https://icon.icepanel.io/Technology/svg/React.svg" width="36" />
   <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" width="36" />
