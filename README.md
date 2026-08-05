@@ -12,8 +12,7 @@
 
 ## About
 
-- 🎓 Majoring in Artificial Intelligence
-- 🤖 Currently learning and building AI agents
+- Learning and Building Agent
 
 ## Tech Stack
 
