@@ -14,13 +14,6 @@
 
 - Learning and Building Agent
 
-## Tech Stack
-
-<p>
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
-
 ## GitHub Activity
 
 <p align="center">
