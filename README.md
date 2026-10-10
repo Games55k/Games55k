@@ -5,7 +5,6 @@
 <p>
   <a href="https://blog.sleepwf.dev"><img alt="Blog" src="https://img.shields.io/badge/Blog-sleepwf.dev-181717?style=flat-square" /></a>
   <a href="https://wakatime.com/badge/user/10987652-cb25-413a-85f0-2cb7753f5fd2.svg"><img alt="WakaTime" src="https://wakatime.com/badge/user/10987652-cb25-413a-85f0-2cb7753f5fd2.svg" /></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Games55k&color=orange&style=flat-square" />
 </p>
 
 </div>
