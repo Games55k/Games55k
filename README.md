@@ -33,15 +33,14 @@
 </td>
 <td valign="top" width="50%">
 
-#### 💻 Open Source Contributions
+#### 📈 GitHub Stats
 
-<p>
-⚡ <a href="https://github.com/farion1231/cc-switch"><strong>farion1231/cc-switch</strong></a> -- <code>★ 155k+</code> -- <code>AI Coding</code><br/>
-🛠 <a href="https://github.com/vorssaint/vorssaint-utils"><strong>vorssaint/vorssaint-utils</strong></a> -- <code>★ 35k+</code> -- <code>Utils</code><br/>
-🏆 <a href="https://github.com/Ac-Wiki/Ac-Wiki"><strong>Ac-Wiki/Ac-Wiki</strong></a> -- <code>★ 1.9k+</code> -- <code>ACM Wiki</code><br/>
-⚛️ <a href="https://github.com/reactjs/zh-hans.react.dev"><strong>reactjs/zh-hans.react.dev</strong></a> -- <code>★ 1k+</code> -- <code>React Docs</code><br/>
-🤖 <a href="https://github.com/yu-xin-c/Sea-mult-agent"><strong>yu-xin-c/Sea-mult-agent</strong></a> -- <code>Multi-Agent</code><br/>
-🎨 <a href="https://github.com/lobehub/lobe-mygo"><strong>lobehub/lobe-mygo</strong></a> -- <code>LobeHub · Go UI</code><br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats.dogxi.me/api?username=Games55k&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://stats.dogxi.me/api?username=Games55k&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&bg_color=00000000" />
+    <img width="100%" alt="Games55k's GitHub statistics" src="https://stats.dogxi.me/api?username=Games55k&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&bg_color=00000000" />
+  </picture>
 </p>
 
 </td>
